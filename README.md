@@ -29,5 +29,5 @@ https://dgichaba.github.io/Delani-Studio-Project/
 ## Contact Information
 If you have any question or contributions, please email me at dorothycherotich74@gmail.com
 ## Licence Information
-Distributed under the MIT License. See License.txt for more information.
+Distributed under the MIT license. See license.txt for more information.
 
