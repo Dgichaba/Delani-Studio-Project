@@ -1,4 +1,4 @@
-# Delani-Studio
+# Delani-Studio-Project
 #### Authored By : **Dorothy Gichaba**
 ## Description
 This project is a webpage for Delani Studio which gives a detailed description of who they are, the services they offer, their portfolio and a form for users to reach out incase they need support or have any concerns.
@@ -25,7 +25,7 @@ This web application cannot fuction in the absence of internet connection.
 ## List of contributors 
 Dorothy Gichaba
 ## Link to live site on GitHub Pages
-https://dgichaba.github.io/Delani-Studio/
+https://dgichaba.github.io/Delani-Studio-Project/
 ## Contact Information
 If you have any question or contributions, please email me at dorothycherotich74@gmail.com
 ## Licence Information
