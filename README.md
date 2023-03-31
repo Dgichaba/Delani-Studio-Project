@@ -27,7 +27,7 @@ Dorothy Gichaba
 ## Link to live site on GitHub Pages
 https://dgichaba.github.io/Delani-Studio-Project/
 ## Contact Information
-If you have any question or contributions, please email me at dorothycherotich74@gmail.com
+If you have any question or contributions, please email me at dorothygichaba@gmail.com
 ## Licence Information
 Distributed under the MIT license. See license.txt for more information.
 
