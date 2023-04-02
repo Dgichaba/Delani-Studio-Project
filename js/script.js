@@ -1,4 +1,5 @@
 $(()=>{
+  // events on 'what we do' section 
   $("#des_image").click(()=>{
     $("#des_image").slideDown('1000').hide('1000');
     $("#design").show('1000');
@@ -23,6 +24,8 @@ $(()=>{
     $("#product-management").slideUp('1000');
     $("#pm_image").slideDown('1000');
   });
+
+  // events on portfolio section
   $("#work1").mouseover(()=>{
     $("#text1").show();
   }).mouseout(()=>{
