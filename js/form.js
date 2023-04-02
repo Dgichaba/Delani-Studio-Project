@@ -1,10 +1,10 @@
-function sendMessage(){
+// function to send email and return a message
+sendMessage()=>{
   var name =$("#name").val();
   var email=$("#email").val();
   var message=$("#message").val();
   if (name === "" || email==="" || message===""){
-    $("#response").html("");
-    
+    $("#response").html("");  
  }else{
   $("#error").html("");
   $("#response").focus();
