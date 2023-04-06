@@ -12,7 +12,7 @@ $(()=>{
     $("#dev_image").slideDown('1000').hide('1000');
     $("#development").show('1000');
   });
-  $("#development").click(()=>{
+  $("#development").click((click)=>{
     $("#development").slideUp('1000');
     $("#dev_image").slideDown('1000');
   });
