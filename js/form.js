@@ -20,6 +20,6 @@
 
 $("form").submit(function() {
   var name= $("#name").val();
-  alert("We've received your message "+name+". Thank you for contacting us");
+  alert("Thank you " +name+"! Your message has been received. We shall get back to you shorty");
   event.preventDefault();
 });
